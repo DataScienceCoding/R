@@ -109,8 +109,8 @@
   - presidents       #1945-1974年每季度美国总统支持率
   - UKDriverDeaths   #1969-1984年每月英国司机死亡或严重伤害的数目
   - sunspot.month    #1749-1997每月太阳黑子数
-  - - sunspot.year   #1700-1988每年太阳黑子数
-  - - sunspots       #1749-1983每月太阳黑子数
+  - sunspot.year     #1700-1988每年太阳黑子数
+  - sunspots         #1749-1983每月太阳黑子数
   - treering         #归一化的树木年轮数据
   - UKgas            #1960-1986每月英国天然气消耗
   - USAccDeaths      #1973-1978美国每月意外死亡人数
